@@ -8,3 +8,4 @@ git status - shows which files/folders which have been modified since last commi
 git commit -m "message" - creates a save point for files in the repository
 git push origin master - pushed all changes to repository on GitHub
 git checkout -b add-command-log - creates and then switches to branch
+
