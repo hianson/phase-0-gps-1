@@ -18,3 +18,4 @@ git commit -m "message" - creates a save point for files in the repository
 git push origin master - pushed all changes to repository on [Github](https://help.github.com/articles/about-writing-and-formatting-on-github/ "GitHub help page")
 
 git checkout -b add-command-log - creates and then switches to branch
+
